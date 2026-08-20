@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Navbar from "./Navbar"; // Optional if you have a navbar component
+// import Navbar from "./Navbar"; // Optional if you have a navbar component
 import { news } from "../data"; // Static news data
 
 const NewsCard = ({ data, id }) => {
